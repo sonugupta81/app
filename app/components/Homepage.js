@@ -22,7 +22,7 @@ const Homepage = () => {
             </div>
             <div className="px-5 pt-8 pb-8  w-3/5">
               <div className="">
-                <p className="font-bold text-4xl">I'm Brain Do</p>
+                <p className="font-bold text-4xl">I&apos;m Brain Do</p>
                 <p className="font-bold text-lg pt-4 text-gray-500">
                   Product Designer From Jakarta,ID Currently disigning at
                   Rectangle
@@ -42,10 +42,10 @@ const Homepage = () => {
               </div>
             </div>
             <Project />
-            <Products/>
-            <Hireme/>
-            <Social/>
-            <Name/>
+            <Products />
+            <Hireme />
+            <Social />
+            <Name />
           </div>
         </div>
       </div>

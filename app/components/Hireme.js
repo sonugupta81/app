@@ -4,7 +4,9 @@ import { CirclePlus, Dot, Copy } from "lucide-react";
 const Hireme = () => {
   return (
     <div className="py-20 ">
-      <p className="text-4xl font-bold text-center ">Let's Work Togather.</p>
+      <p className="text-4xl font-bold text-center ">
+        Let&apos;s Work Togather.
+      </p>
       <p className="text-center text-xl pt-2 text-gray-500">
         Creating user experience and visual appealing design
       </p>
